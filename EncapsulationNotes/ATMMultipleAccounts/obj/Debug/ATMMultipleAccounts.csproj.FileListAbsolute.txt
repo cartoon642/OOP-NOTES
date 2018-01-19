@@ -1,0 +1,6 @@
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\ObjectsNotes\ATMMultipleAccounts\bin\Debug\ATMMultipleAccounts.exe.config
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\ObjectsNotes\ATMMultipleAccounts\bin\Debug\ATMMultipleAccounts.exe
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\ObjectsNotes\ATMMultipleAccounts\bin\Debug\ATMMultipleAccounts.pdb
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\ObjectsNotes\ATMMultipleAccounts\obj\Debug\ATMMultipleAccounts.csprojResolveAssemblyReference.cache
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\ObjectsNotes\ATMMultipleAccounts\obj\Debug\ATMMultipleAccounts.exe
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\ObjectsNotes\ATMMultipleAccounts\obj\Debug\ATMMultipleAccounts.pdb

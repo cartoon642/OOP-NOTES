@@ -1,0 +1,13 @@
+P:\4-National Diploma 2\SP S2 - Object Oriented Programming\4.2B\ObjectsNotes\ObjectsNotes\bin\Debug\ObjectsNotes.exe.config
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\ObjectsNotes\ObjectsNotes\bin\Debug\ObjectsNotes.exe.config
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\ObjectsNotes\ObjectsNotes\bin\Debug\ObjectsNotes.exe
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\ObjectsNotes\ObjectsNotes\bin\Debug\ObjectsNotes.pdb
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\ObjectsNotes\ObjectsNotes\obj\Debug\ObjectsNotes.csprojResolveAssemblyReference.cache
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\ObjectsNotes\ObjectsNotes\obj\Debug\ObjectsNotes.exe
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\ObjectsNotes\ObjectsNotes\obj\Debug\ObjectsNotes.pdb
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\EncapsulationNotes\ObjectsNotes\bin\Debug\ObjectsNotes.exe.config
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\EncapsulationNotes\ObjectsNotes\obj\Debug\ObjectsNotes.exe
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\EncapsulationNotes\ObjectsNotes\obj\Debug\ObjectsNotes.pdb
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\EncapsulationNotes\ObjectsNotes\bin\Debug\ObjectsNotes.exe
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\EncapsulationNotes\ObjectsNotes\bin\Debug\ObjectsNotes.pdb
+P:\Lecturers\Ranier Bonnici\OOP Level 4\4.2B\EncapsulationNotes\ObjectsNotes\obj\Debug\ObjectsNotes.csprojResolveAssemblyReference.cache

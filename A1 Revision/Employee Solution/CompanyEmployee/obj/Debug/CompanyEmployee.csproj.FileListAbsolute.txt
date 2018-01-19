@@ -1,0 +1,6 @@
+P:\Lecturers\Ranier Bonnici\OOP Level 4\A1 Revision\Employee Solution\CompanyEmployee\bin\Debug\CompanyEmployee.exe.config
+P:\Lecturers\Ranier Bonnici\OOP Level 4\A1 Revision\Employee Solution\CompanyEmployee\bin\Debug\CompanyEmployee.exe
+P:\Lecturers\Ranier Bonnici\OOP Level 4\A1 Revision\Employee Solution\CompanyEmployee\bin\Debug\CompanyEmployee.pdb
+P:\Lecturers\Ranier Bonnici\OOP Level 4\A1 Revision\Employee Solution\CompanyEmployee\obj\Debug\CompanyEmployee.exe
+P:\Lecturers\Ranier Bonnici\OOP Level 4\A1 Revision\Employee Solution\CompanyEmployee\obj\Debug\CompanyEmployee.pdb
+P:\Lecturers\Ranier Bonnici\OOP Level 4\A1 Revision\Employee Solution\CompanyEmployee\obj\Debug\CompanyEmployee.csprojResolveAssemblyReference.cache
